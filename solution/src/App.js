@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       
-      <EntryForm className="entryForm"></EntryForm>
+      <EntryForm></EntryForm>
     </div>
   );
 }
