@@ -1,0 +1,83 @@
+
+
+.entryDiv {
+    background-color: white;
+    width: -webkit-fill-available;
+}
+.entryForm {
+    background-color: white;
+    color: black;
+    margin: 50px;
+    font: bold;
+    padding: 100px;
+  }
+div {
+    margin: 30px;
+}
+.border {
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 10px;
+    border-color: black;
+    width: 90%;
+}
+th {
+    background-color: grey;
+}
+.trShade {
+    background-color: lightgray;
+}
+
+.trWhite {
+    background-color: white;
+}
+td, th {
+    text-align: left;
+}
+
+.leftColumn {
+    margin: 20px;
+    text-align: right;
+    vertical-align: top;
+    width: 20%;
+    display: inline-block;
+}
+
+.rightColumn {
+    margin: 20px;
+    text-align: left;
+    vertical-align: top;
+    width: 60%;
+    display: inline-block;
+}
+
+
+.rightColumnField {
+    width: 100%;
+    display: block;
+}
+
+.rightAlign {
+    margin: 20px;
+    text-align: right;
+}
+
+.errorField {
+    color: red;
+}
+
+.hideField {
+    visibility: hidden;
+}
+
+button {
+  box-shadow: 5px 5px #888888;
+  padding-left: 10px;
+  padding-right: 10px;
+}

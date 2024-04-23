@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Changes : 
+1. Created component EntryForm (src/components/entryForm.js, src/components/entryForm.css)
+2. onChange, handleSelection, addData methods validates and add data to the table.
+3. clear button deletes table data.
